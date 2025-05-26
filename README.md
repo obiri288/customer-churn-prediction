@@ -1,7 +1,7 @@
 # Customer Churn Prediction with Machine Learning
 This project focuses on developing a machine learning model to predict customer churn based on a real-world customer dataset. The goal is to proactively identify customers who are likely to churn, enabling targeted retention strategies.
 
-Data
+Data:
 The dataset for this project comes from a public source (e.g., Kaggle, if it was "Telco Customer Churn," or be more specific if you have the link). It contains anonymized customer information, including:
 
 CreditScore: Customer's credit score
